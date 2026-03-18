@@ -226,7 +226,7 @@ export default function HomePage() {
                   ))}
                 </div>
                 <div className="mt-5 text-xs text-black/50">
-                  (Add a “Read more” link later if you want.)
+                 
                 </div>
               </div>
             ))}
